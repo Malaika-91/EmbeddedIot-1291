@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Week5-PWM-Buzzer",
+			"path": "../Week5-PWM-Buzzer"
+		},
+		{
+			"name": "Week5-DHT-OLED",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
